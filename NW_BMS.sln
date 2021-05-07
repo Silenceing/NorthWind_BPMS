@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NW_BPMS", "NW_BMS\NW_BPMS.csproj", "{42277A5A-F915-45AA-8967-53CFFBCC9672}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BaseLibrary", "BaseLibrary", "{0A57ACE9-DE42-4C80-93A9-7E8DBE03F8A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{301CC0C3-0BEA-46E1-8062-CD602CC7A05B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussiness", "Bussiness", "{21B4E2B6-CADF-4E66-9F74-F7A706DA7638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42277A5A-F915-45AA-8967-53CFFBCC9672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42277A5A-F915-45AA-8967-53CFFBCC9672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42277A5A-F915-45AA-8967-53CFFBCC9672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42277A5A-F915-45AA-8967-53CFFBCC9672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CB1754-C6B3-4D0E-881B-B9FF69F7357A}
+	EndGlobalSection
+EndGlobal
